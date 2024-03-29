@@ -1,0 +1,4 @@
+/.env
+/.ruff_cache
+/supported_currency.json
+/venv
