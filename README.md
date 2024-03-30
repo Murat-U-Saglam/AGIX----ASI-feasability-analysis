@@ -1,1 +1,1 @@
-# TODO
+EDA of price comparison of AGIX and FET token to provide visibility to the upcoming merger
